@@ -39,8 +39,19 @@ Desarrollar un **aplicativo móvil** para gestionar el inventario de la bodega d
 ## Tecnologías y Herramientas
 
 - **Flutter**: Framework de desarrollo para la creación de aplicaciones móviles multiplataforma.
+  <div align="center">
+  <img src="media/flutterlogo.png" alt="Flutter Logo" width="150"/>
+  </div>
+  
 - **Firebase**: Plataforma en la nube para backend, gestión de bases de datos en tiempo real y autenticación de usuarios.
+  <div align="center">
+  <img src="media/firebaselogo.png" alt="Firebase Logo" width="150"/>
+  </div>
+  
 - **Android Studio**: Entorno de desarrollo integrado (IDE) para Flutter.
+  <div align="center">
+  <img src="media/AndroidStudilogo.png" alt="Android Studio Logo" width="150"/>
+  </div>
 
 ## Requisitos del Sistema
 
