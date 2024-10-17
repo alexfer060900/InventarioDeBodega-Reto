@@ -1,3 +1,7 @@
+<p align="right">
+  <img src="media/utpllogo.png" alt="Logo UTPL" width="150"/>
+</p>
+
 # Reto: Inventario de Bodega - Universidad Técnica Particular de Loja (UTPL)
 
 ## Descripción del Proyecto
