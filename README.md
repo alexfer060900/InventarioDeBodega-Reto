@@ -54,9 +54,9 @@ Desarrollar un **aplicativo móvil** para gestionar el inventario de la bodega d
   </div>
 
 ## Requisitos del Sistema
-
 - Android 8.0 o superior.
 - Conexión a internet para la sincronización en la nube.
+
 
 ## Integrantes
 
@@ -66,3 +66,4 @@ Desarrollar un **aplicativo móvil** para gestionar el inventario de la bodega d
 - **Leonardo Chuquimarca**
 - **Jorge Armijos**
 - **Alex Aguirre**
+
