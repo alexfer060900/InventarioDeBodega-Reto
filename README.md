@@ -36,6 +36,8 @@ Desarrollar un **aplicativo móvil** para gestionar el inventario de la bodega d
    - Despliegue del aplicativo móvil en **Google Play Store**.
    - Pruebas de usuario y ajustes finales.
 
+## [PROTOTIPO DE ALTA FIDELIDAD](https://www.figma.com/proto/uatryMPY8xkGhpQikBVEPS/Prototipo-Inventario-de-bodega?node-id=9-2&node-type=canvas&t=7rpXezoedu1NcpwP-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A4)
+
 ## Tecnologías y Herramientas
 
 - **Flutter**: Framework de desarrollo para la creación de aplicaciones móviles multiplataforma.
