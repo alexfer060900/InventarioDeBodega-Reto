@@ -1,3 +1,8 @@
+<p align="right">
+  <img src="media/utpllogo.png" alt="Logo UTPL" width="150"/>
+</p>
+
+
 # Mapa de Capacidades para la Aplicación de Gestión de Inventario de Bodega
 
 ## ¿Qué es un Mapa de Capacidades?
