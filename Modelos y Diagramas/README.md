@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="media/utpllogo.png" alt="Logo UTPL" width="150"/>
+  <img src="//media/utpllogo.png" alt="Logo UTPL" width="150"/>
 </p>
 
 
