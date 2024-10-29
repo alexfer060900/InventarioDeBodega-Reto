@@ -15,6 +15,10 @@ Un mapa de capacidades generalmente se divide en módulos o áreas de alto nivel
 
 ## Mapa de Capacidades de la Aplicación de Gestión de Inventario de Bodega
 
+<p align="center">
+  <img src="media/Reto Inventario de Bodega UTPL - Mapa de Capacidades.png" alt="Logo UTPL" width="300"/>
+</p>
+
 Este mapa de capacidades se ha diseñado para una aplicación móvil enfocada en la gestión de inventarios en un entorno de bodega. La aplicación está organizada en cuatro módulos principales:
 
 1. **Registro**
