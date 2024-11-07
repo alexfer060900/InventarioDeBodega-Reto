@@ -7,6 +7,15 @@
 **Nombre de la empresa:** CLOUDCORE  
 CLOUDCORE es una empresa especializada en soluciones de computación en la nube, orientada a mejorar la eficiencia y competitividad de sus clientes a través de tecnologías seguras y escalables.
 
+## Integrantes y Roles en el Proyecto
+
+- **Jhon Calle** (PRODUCT MANAGER)
+- **Pablo Reyes** (FRONTEND)
+- **Carlos Morocho** (UX/UI DESIGNER)
+- **Leonardo Chuquimarca** (ARQUITECTO DE SOFTWARE)
+- **Jorge Armijos** (BACKEND)
+- **Alex Aguirre** (ANALISTA DE NEGOCIO)
+- 
 | Misión                                                                                                                                                                                                                       | Visión                                                                                                                                                                                                                     |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Proveer soluciones de computación en la nube seguras, escalables y de alto rendimiento, que permitan a nuestros clientes optimizar sus operaciones, reducir costos y mejorar su competitividad. Nos comprometemos a entregar tecnología confiable y fácil de usar, respaldada por un equipo de expertos dedicados a brindar un servicio de excelencia. | Ser líderes globales en soluciones de computación en la nube, ofreciendo tecnología innovadora que transforme y simplifique la forma en que las empresas y personas gestionan, almacenan y acceden a la información, impulsando un futuro más conectado y eficiente. |
@@ -48,7 +57,10 @@ Desarrollar un **aplicativo móvil** para gestionar el inventario de la bodega d
    - Pruebas de usuario y ajustes finales.
 
 ## [PROTOTIPO DE ALTA FIDELIDAD](https://www.figma.com/proto/uatryMPY8xkGhpQikBVEPS/Prototipo-Inventario-de-bodega?node-id=1-4&node-type=canvas&t=9As6dMOQAscuw05o-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A4)
-
+  <div align="center">
+  <img src="media/qr.png" alt="Flutter Logo" width="150"/>
+  </div>
+  
 ## Tecnologías y Herramientas
 
 - **Flutter**: Framework de desarrollo para la creación de aplicaciones móviles multiplataforma.
@@ -69,13 +81,3 @@ Desarrollar un **aplicativo móvil** para gestionar el inventario de la bodega d
 ## Requisitos del Sistema
 - Android 8.0 o superior.
 - Conexión a internet para la sincronización en la nube.
-
-
-## Integrantes y Roles en el Proyecto
-
-- **Jhon Calle** (PRODUCT MANAGER)
-- **Pablo Reyes** (FRONTEND)
-- **Carlos Morocho** (UX/UI DESIGNER)
-- **Leonardo Chuquimarca** (ARQUITECTO DE SOFTWARE)
-- **Jorge Armijos** (BACKEND)
-- **Alex Aguirre** (ANALISTA DE NEGOCIO)
