@@ -2,6 +2,17 @@
   <img src="media/utpllogo.png" alt="Logo UTPL" width="150"/>
 </p>
 
+## ¿Quiénes Somos?
+
+**Nombre de la empresa:** CLOUDCORE  
+CLOUDCORE es una empresa especializada en soluciones de computación en la nube, orientada a mejorar la eficiencia y competitividad de sus clientes a través de tecnologías seguras y escalables.
+
+| Misión                                                                                                                                                                                                                       | Visión                                                                                                                                                                                                                     |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Proveer soluciones de computación en la nube seguras, escalables y de alto rendimiento, que permitan a nuestros clientes optimizar sus operaciones, reducir costos y mejorar su competitividad. Nos comprometemos a entregar tecnología confiable y fácil de usar, respaldada por un equipo de expertos dedicados a brindar un servicio de excelencia. | Ser líderes globales en soluciones de computación en la nube, ofreciendo tecnología innovadora que transforme y simplifique la forma en que las empresas y personas gestionan, almacenan y acceden a la información, impulsando un futuro más conectado y eficiente. |
+
+---
+
 # Reto: Inventario de Bodega - Universidad Técnica Particular de Loja (UTPL)
 
 ## Descripción del Proyecto
@@ -68,14 +79,3 @@ Desarrollar un **aplicativo móvil** para gestionar el inventario de la bodega d
 - **Leonardo Chuquimarca** (ARQUITECTO DE SOFTWARE)
 - **Jorge Armijos** (BACKEND)
 - **Alex Aguirre** (ANALISTA DE NEGOCIO)
-
----
-
-## ¿Quiénes Somos?
-
-**Nombre de la empresa:** CLOUDCORE  
-CLOUDCORE es una empresa especializada en soluciones de computación en la nube, orientada a mejorar la eficiencia y competitividad de sus clientes a través de tecnologías seguras y escalables.
-
-| Misión                                                                                                                                                                                                                       | Visión                                                                                                                                                                                                                     |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Proveer soluciones de computación en la nube seguras, escalables y de alto rendimiento, que permitan a nuestros clientes optimizar sus operaciones, reducir costos y mejorar su competitividad. Nos comprometemos a entregar tecnología confiable y fácil de usar, respaldada por un equipo de expertos dedicados a brindar un servicio de excelencia. | Ser líderes globales en soluciones de computación en la nube, ofreciendo tecnología innovadora que transforme y simplifique la forma en que las empresas y personas gestionan, almacenan y acceden a la información, impulsando un futuro más conectado y eficiente. |
