@@ -62,10 +62,10 @@ La estructura de un diagrama de casos de uso incluye los siguientes componentes 
 ## 2. Diagrama de caso de uso (Gestión)
 
 <p align="center">
-  <img src="../media/Diagrama%20Caso%20de%20Uso%202.png" alt="Diagrama de caso de uso (Gestio)"/>
+  <img src="../media/Diagrama%20Caso%20de%20Uso%202.png" alt="Diagrama de caso de uso (Gestion)"/>
 </p>
 
-    - **Gestionar inventario**: El personal administrativo tiene la capacidad de gestionar el inventario que posee las bodegas de la UTPL, tiene la capacidad de *clasificar componentes*, *verificar el estado del componente* en el que se encuentra en ese momento y visualizar un *historial de rotación de componentes*.
+  - **Gestionar inventario**: El personal administrativo tiene la capacidad de gestionar el inventario que posee las bodegas de la UTPL, tiene la capacidad de *clasificar componentes*, *verificar el estado del componente* en el que se encuentra en ese momento y visualizar un *historial de rotación de componentes*.
 
-    - **Gestionar orden de compra**: El personal administrativo tiene la capacidad de gestionar la orden de compra o solicitud de componentes, para realizar dicha orden, el aplicativo *verifica la existencia de componentes* desde su base de datos interna, el personal administrativo puede *solicitar orden de compra* de los componentes que estén disponibles en el aplicativo, y por ultimo, *puede aprobar o denegar la orden compra*
+  - **Gestionar orden de compra**: El personal administrativo tiene la capacidad de gestionar la orden de compra o solicitud de componentes, para realizar dicha orden, el aplicativo *verifica la existencia de componentes* desde su base de datos interna, el personal administrativo puede *solicitar orden de compra* de los componentes que estén disponibles en el aplicativo, y por ultimo, *puede aprobar o denegar la orden compra*
 
