@@ -69,3 +69,12 @@ La estructura de un diagrama de casos de uso incluye los siguientes componentes 
 
   - **Gestionar orden de compra**: El personal administrativo tiene la capacidad de gestionar la orden de compra o solicitud de componentes, para realizar dicha orden, el aplicativo *verifica la existencia de componentes* desde su base de datos interna, el personal administrativo puede *solicitar orden de compra* de los componentes que estén disponibles en el aplicativo, y por ultimo, *puede aprobar o denegar la orden compra*
 
+## 3. Diagrama de caso de uso (Monitoreo)
+
+<p align="center">
+  <img src="../media/Diagrama%20Caso%20de%20Uso%203.png" alt="Diagrama de caso de uso (Monitoreo)"/>
+</p>
+
+- **Monitorear inventario**: El personal administrativo puede monitorear el inventario desde el aplicativo, dicho monitoreo se lo realiza *identificando el componente* y accediendo a su información, además el aplicativo tiene la capacidad de *generar un informe* que posee la información sobre el componente identificado.
+
+- **Generar Alertas**: El aplicativo tiene la capacidad de *generar alertas en tiempo real*, estas alertas pueden ser de dos tipos, "caducidad de componentes" que es cuando un componente este próximo a caducarse, y *estado de componente* que es el estado actual del componente.
