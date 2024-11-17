@@ -78,3 +78,11 @@ La estructura de un diagrama de casos de uso incluye los siguientes componentes 
 - **Monitorear inventario**: El personal administrativo puede monitorear el inventario desde el aplicativo, dicho monitoreo se lo realiza *identificando el componente* y accediendo a su información, además el aplicativo tiene la capacidad de *generar un informe* que posee la información sobre el componente identificado.
 
 - **Generar Alertas**: El aplicativo tiene la capacidad de *generar alertas en tiempo real*, estas alertas pueden ser de dos tipos, "caducidad de componentes" que es cuando un componente este próximo a caducarse, y *estado de componente* que es el estado actual del componente.
+
+## 4. Diagrama de caso de uso (Ejecución)
+
+<p align="center">
+  <img src="../media/Diagrama%20Caso%20de%20Uso%204.png" alt="Diagrama de caso de uso (Ejecucion)"/>
+</p>
+
+- **Entregar componentes**: El personal administrativo tiene la capacidad de entregar componentes, para entregar los componentes, debe *recibir una solicitud* de componentes mediante otro aplicativo, mediante el aplicativo de gestión de inventario *despacha los componentes*, una vez recibido los componentes se *confirma la recepción* de los componentes, mediante el aplicativo de gestión de inventario se *devuelven los componentes* que ya no se desea usar.
