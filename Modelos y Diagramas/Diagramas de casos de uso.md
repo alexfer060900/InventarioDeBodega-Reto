@@ -49,8 +49,7 @@ La estructura de un diagrama de casos de uso incluye los siguientes componentes 
    - Se ilustra como un rectángulo que contiene los casos de uso.
 
 ---
-
-1. ## Diagrama de caso de uso (Registro)
+##1. Diagrama de caso de uso (Registro)
 
 <p align="center">
   <img src="../media/Diagrama%20Caso%20de%20Uso%201.png" alt="Diagrama de caso de uso (Registro)"/>
