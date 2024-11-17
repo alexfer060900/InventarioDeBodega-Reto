@@ -48,5 +48,16 @@ La estructura de un diagrama de casos de uso incluye los siguientes componentes 
    - Representa los límites del sistema modelado.
    - Se ilustra como un rectángulo que contiene los casos de uso.
 
+---
+
+1. ## Diagrama de caso de uso (Registro)
+
+<p align="center">
+  <img src="../media/Diagrama%20Caso%20de%20Uso%201.png" alt="Diagrama de caso de uso (Registro)"/>
+</p>
+
+   - **Ingresar usuarios**: El administrador de la aplicación ingresa usuarios al aplicativo, para validar de que ese usuario es miembro de la *Universidad técnica particular de Loja* (UTPL) y que tiene acceso a las bodegas de la universidad, extrae la información de la base de datos de la UTPL.
+
+   - **Ingresar Componentes**: El administrador de la aplicación ingresa los componentes que posee la bodega de la UTPL, dichos componentes pueden pertenecer a una de las categorías del aplicativo, estos son, *suministros de oficina*, *equipos y mobiliario*, *tecnología*, *material deportivo*, *material de limpieza y seguridad* y *libros y material bibliográfico*.
 
 
