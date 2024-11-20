@@ -41,7 +41,6 @@ El sistema permite a los usuarios del personal administrativo interactuar con co
 - **Atributos**:
   - `id_solicitud`: Identificador único de la solicitud.
   - `id_servicio`: Referencia al servicio asociado.
-  - `id_personal`: Referencia al usuario que realiza la solicitud.
   - `estado_solicitud`: Estado actual de la solicitud.
   - `fecha_solicitud`: Fecha de creación de la solicitud.
 
