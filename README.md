@@ -15,7 +15,7 @@ CLOUDCORE es una empresa especializada en soluciones de computación en la nube,
 
 ## Integrantes y Roles en el Proyecto
 
-- <p align="left"><img src="media/utpllogo.png" alt="Logo UTPL" width="150"/> **Jhon Calle** (PRODUCT MANAGER) </p>  
+- **Jhon Calle** (PRODUCT MANAGER) <p align="left"><img src="media/utpllogo.png" alt="Logo UTPL" width="75"/> </p>  
 - **Pablo Reyes** (FRONTEND)
 - **Carlos Morocho** (UX/UI DESIGNER)
 - **Leonardo Chuquimarca** (ARQUITECTO DE SOFTWARE)
