@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="../media/utpllogo.png" alt="Logo UTPL" width="150"/>
+  <img src="https://i.postimg.cc/13qQdqZs/utpllogo.png" alt="Logo UTPL" width="150"/>
 </p>
 
 # Modelo de Datos
@@ -11,6 +11,6 @@ El presente modelo de datos está diseñado para gestionar un sistema orientado 
 El sistema permite a los usuarios del personal administrativo interactuar con componentes mediante operaciones como generar solicitudes, administrar inventarios, y procesar órdenes de compra. Adicionalmente, se registran los movimientos de los componentes, asegurando un historial detallado para su trazabilidad. La seguridad está garantizada a través de un sistema de credenciales asociado a cada usuario.
 
 <p align="center">
-  <img src="../media/Modelo de Datos.png" alt="Modelo de datos"/>
+  <img src="https://i.postimg.cc/WzqVPFJG/Inventario-de-Bodega-Modelo-de-Datos-drawio.png" alt="Modelo de datos"/>
 </p>
 
