@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="https://i.postimg.cc/mrm9m9Yq/utpllogo.png" alt="Logo UTPL" width="150"/>
+  <img src="https://i.postimg.cc/13qQdqZs/utpllogo.png" alt="Logo UTPL" width="150"/>
 </p>
 
 
@@ -59,7 +59,7 @@ Desarrollar un **aplicativo móvil** para gestionar el inventario de la bodega d
 
 ## [PROTOTIPO DE ALTA FIDELIDAD](https://www.figma.com/proto/uatryMPY8xkGhpQikBVEPS/Prototipo-Inventario-de-bodega?node-id=1-4&node-type=canvas&t=9As6dMOQAscuw05o-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A4)
   <div align="center">
-  <img src="https://i.postimg.cc/RFqHy0G0/qr.png" alt="Flutter Logo" width="150"/>
+  <img src="[https://i.postimg.cc/RFqHy0G0/qr.png](https://i.postimg.cc/wv6Y34Rj/flutterlogo.png)" alt="Flutter Logo" width="150"/>
   </div>
   
 ## Tecnologías y Herramientas
