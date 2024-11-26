@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="../media/utpllogo.png" alt="Logo UTPL" width="150"/>
+  <img src="https://i.postimg.cc/13qQdqZs/utpllogo.png" alt="Logo UTPL" width="150"/>
 </p>
 
 
@@ -52,7 +52,7 @@ La estructura de un diagrama de casos de uso incluye los siguientes componentes 
 ## 1. Diagrama de caso de uso (Registro)
 
 <p align="center">
-  <img src="../media/Inventario%20de%20Bodega-Caso%20de%20Uso%201.png" alt="Diagrama de caso de uso (Registro)"/>
+  <img src="https://i.postimg.cc/NFFhky4h/Inventario-de-Bodega-Caso-de-Uso-1.png" alt="Diagrama de caso de uso (Registro)"/>
 </p>
 
    - **Ingresar usuarios**: El administrador de la aplicación ingresa usuarios al aplicativo, para validar de que ese usuario es miembro de la *Universidad técnica particular de Loja* (UTPL) y que tiene acceso a las bodegas de la universidad, extrae la información de la base de datos de la UTPL.
@@ -62,7 +62,7 @@ La estructura de un diagrama de casos de uso incluye los siguientes componentes 
 ## 2. Diagrama de caso de uso (Gestión)
 
 <p align="center">
-  <img src="../media/Inventario%20de%20Bodega-Caso%20de%20Uso%202.png" alt="Diagrama de caso de uso (Gestion)"/>
+  <img src="https://i.postimg.cc/L5bcCHCJ/Inventario-de-Bodega-Caso-de-Uso-2.png" alt="Diagrama de caso de uso (Gestion)"/>
 </p>
 
   - **Gestionar inventario**: El personal administrativo tiene la capacidad de gestionar el inventario que posee las bodegas de la UTPL, tiene la capacidad de *clasificar componentes*, *verificar el estado del componente* en el que se encuentra en ese momento y visualizar un *historial de rotación de componentes*.
@@ -72,7 +72,7 @@ La estructura de un diagrama de casos de uso incluye los siguientes componentes 
 ## 3. Diagrama de caso de uso (Monitoreo)
 
 <p align="center">
-  <img src="../media/Inventario%20de%20Bodega-Caso%20de%20Uso%203.png" alt="Diagrama de caso de uso (Monitoreo)"/>
+  <img src="https://i.postimg.cc/9FzVGk84/Inventario-de-Bodega-Caso-de-Uso-3.png" alt="Diagrama de caso de uso (Monitoreo)"/>
 </p>
 
 - **Monitorear inventario**: El personal administrativo puede monitorear el inventario desde el aplicativo, dicho monitoreo se lo realiza *identificando el componente* y accediendo a su información, además el aplicativo tiene la capacidad de *generar un informe* que posee la información sobre el componente identificado.
@@ -82,7 +82,7 @@ La estructura de un diagrama de casos de uso incluye los siguientes componentes 
 ## 4. Diagrama de caso de uso (Ejecución)
 
 <p align="center">
-  <img src="../media/Inventario%20de%20Bodega-Caso%20de%20Uso%204.png" alt="Diagrama de caso de uso (Ejecucion)"/>
+  <img src="https://i.postimg.cc/v80bxyzF/Inventario-de-Bodega-Caso-de-Uso-4.png" alt="Diagrama de caso de uso (Ejecucion)"/>
 </p>
 
 - **Entregar componentes**: El personal administrativo tiene la capacidad de entregar componentes, para entregar los componentes, debe *recibir una solicitud* de componentes mediante otro aplicativo, mediante el aplicativo de gestión de inventario *despacha los componentes*, una vez recibido los componentes se *confirma la recepción* de los componentes, mediante el aplicativo de gestión de inventario se *devuelven los componentes* que ya no se desea usar.
