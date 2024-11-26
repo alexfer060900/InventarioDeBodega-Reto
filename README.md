@@ -1,6 +1,5 @@
-<p align="right">
-  <img src="media/utpllogo.png" alt="Logo UTPL" width="150"/>
-</p>
+![Logo de UTPL]([https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png](https://utpl-my.sharepoint.com/:i:/r/personal/pjreyes2_utpl_edu_ec/Documents/ImagenesReto-InventarioDeBodega/utpllogo.png?csf=1&web=1&e=hc7vrl))
+
 
 ## ¿Quiénes Somos?
 
