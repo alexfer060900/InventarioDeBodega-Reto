@@ -16,6 +16,18 @@ CLOUDCORE es una empresa especializada en soluciones de computación en la nube,
 
 ## Integrantes y Roles en el Proyecto
 
+| <p align="right">
+  <img src="https://i.postimg.cc/ydXQ3V4M/Perfil-Pablo.png" alt="Perfil-Pablo Reyes" width="50" style="border-radius: 50%;">
+</p> | <p align="right">
+  <img src="https://i.postimg.cc/nhgw6RGP/Perfil-Carlos.png" alt="Perfil-Carlos Morocho" width="50" style="border-radius: 50%;">
+</p> | <p align="right">
+  <img src="https://i.postimg.cc/ydXQ3V4M/Perfil-Pablo.png" alt="Perfil-Leonardo Chuquimarca" width="50" style="border-radius: 50%;">
+</p> |
+|:---------------------------------------:|:---------------------------------------:|:---------------------------------------:|
+| **Pablo Reyes**                           | **Carlos Morocho**                           | **Leonardo Chuquimarca**                           |
+| Lider, Desarrollador FrontEnd                                | Diseñador UX/UI                                | Arquitecto de software                                |
+
+
 - **Jhon Calle** (PRODUCT MANAGER)
 - **Pablo Reyes** (FRONTEND)
 - **Carlos Morocho** (UX/UI DESIGNER)
