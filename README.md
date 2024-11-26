@@ -1,4 +1,6 @@
-![Logo de UTPL](https://i.postimg.cc/mrm9m9Yq/utpllogo.png)
+<p align="right">
+  <img src="https://i.postimg.cc/mrm9m9Yq/utpllogo.png" alt="Logo UTPL" width="150"/>
+</p>
 
 
 ## ¿Quiénes Somos?
