@@ -59,14 +59,14 @@ Desarrollar un **aplicativo móvil** para gestionar el inventario de la bodega d
 
 ## [PROTOTIPO DE ALTA FIDELIDAD](https://www.figma.com/proto/uatryMPY8xkGhpQikBVEPS/Prototipo-Inventario-de-bodega?node-id=1-4&node-type=canvas&t=9As6dMOQAscuw05o-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A4)
   <div align="center">
-  <img src="https://i.postimg.cc/wv6Y34Rj/flutterlogo.png" alt="Flutter Logo" width="150"/>
+  <img src="https://i.postimg.cc/wv6Y34Rj/flutterlogo.png" alt="qr" width="150"/>
   </div>
   
 ## Tecnologías y Herramientas
 
 - **Flutter**: Framework de desarrollo para la creación de aplicaciones móviles multiplataforma.
   <div align="center">
-  <img src="https://i.postimg.cc/Kj6BnyP8/flutterlogo.png" alt="Flutter Logo" width="100"/>
+  <img src="https://i.postimg.cc/15TSMK2v/qr.png" alt="Flutter Logo" width="100"/>
   </div>
   
 - **Firebase**: Plataforma en la nube para backend, gestión de bases de datos en tiempo real y autenticación de usuarios.
