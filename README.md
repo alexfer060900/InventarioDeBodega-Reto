@@ -66,7 +66,7 @@ Desarrollar un **aplicativo móvil** para gestionar el inventario de la bodega d
 
 - **Flutter**: Framework de desarrollo para la creación de aplicaciones móviles multiplataforma.
   <div align="center">
-  <img src="https://i.postimg.cc/Kj6BnyP8/flutterlogo.png" alt="Flutter Logo" width="150"/>
+  <img src="https://i.postimg.cc/Kj6BnyP8/flutterlogo.png" alt="Flutter Logo" width="100"/>
   </div>
   
 - **Firebase**: Plataforma en la nube para backend, gestión de bases de datos en tiempo real y autenticación de usuarios.
