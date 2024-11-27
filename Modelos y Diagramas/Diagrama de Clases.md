@@ -41,13 +41,13 @@ Un diagrama de clases sigue la siguiente estructura:
 
 ---
 
+## [Enlace al diccionario de clases](https://utpl-my.sharepoint.com/:x:/g/personal/hlchuquimarca_utpl_edu_ec/Ef4Q6vqcT6ZIkBWhR8b88AsBFVgr6-DH5vroV6cvmuYZhQ?e=caQLEj)
+
 ## Foto del diagrama
 
 <p align="center">
   <img src="https://i.postimg.cc/vHw4YfG2/Inventario-de-Bodega-Diagrama-de-clases.png" alt="Diagrama de clases"/>
 </p>
-
-## [Enlace al diccionario de clases](https://utpl-my.sharepoint.com/:x:/g/personal/hlchuquimarca_utpl_edu_ec/Ef4Q6vqcT6ZIkBWhR8b88AsBFVgr6-DH5vroV6cvmuYZhQ?e=caQLEj)
 
 ## Explicación del diagrama
 
