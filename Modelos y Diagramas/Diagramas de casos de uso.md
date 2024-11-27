@@ -55,14 +55,13 @@ La estructura de un diagrama de casos de uso incluye los siguientes componentes 
   <img src="https://i.postimg.cc/NFFhky4h/Inventario-de-Bodega-Caso-de-Uso-1.png" alt="Diagrama de caso de uso (Registro)"/>
 </p>
 
-   | **D1**              | **Genera informe del Componente** |
-|----------------------|-----------------------------------|
-| **Actor principal**  | **Personal administrativo**      |
-| **Actores secundarios** |                               |
-| **Flujo normal**     |                                   |
-| 1. El inventario notifica irregularidad del componente. | |
-| 2. Inventario genera informe del componente.            | |
-| 3. El personal administrativo revisa el informe.        | |
+| **D1**              | **Genera informe del Componente** |                                  |
+|----------------------|-----------------------------------|----------------------------------|
+| **Actor principal**  | **Personal administrativo**      | **Actores secundarios**         |
+| **Flujo normal**     |                                   |                                  |
+| 1. El inventario notifica irregularidad del componente. |                                  |
+| 2. Inventario genera informe del componente.            |                                  |
+| 3. El personal administrativo revisa el informe.        |                                  |
 
 
 ## 2. Diagrama de caso de uso (Gestión)
