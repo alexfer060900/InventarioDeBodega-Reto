@@ -43,8 +43,8 @@ Un diagrama de clases sigue la siguiente estructura:
 
 ## Foto del diagrama
 
-<p align="right">
-  <img src="https://i.postimg.cc/vHw4YfG2/Inventario-de-Bodega-Diagrama-de-clases.png" alt="Diagrama de clases" width="150"/>
+<p align="center">
+  <img src="https://i.postimg.cc/vHw4YfG2/Inventario-de-Bodega-Diagrama-de-clases.png" alt="Diagrama de clases"/>
 </p>
 
 ---
