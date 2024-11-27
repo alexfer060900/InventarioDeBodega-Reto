@@ -16,15 +16,55 @@ CLOUDCORE es una empresa especializada en soluciones de computación en la nube,
 
 ## Integrantes y Roles en el Proyecto
 
-| ![Foto]("https://i.postimg.cc/ydXQ3V4M/Perfil-Pablo.png") | <p align="right">
-  <img src="https://i.postimg.cc/nhgw6RGP/Perfil-Carlos.png" alt="Perfil-Carlos Morocho" width="50" style="border-radius: 50%;">
-</p> | <p align="right">
-  <img src="https://i.postimg.cc/ydXQ3V4M/Perfil-Pablo.png" alt="Perfil-Leonardo Chuquimarca" width="50" style="border-radius: 50%;">
-</p> |
-|:---------------------------------------:|:---------------------------------------:|:---------------------------------------:|
-| **Pablo Reyes**                           | **Carlos Morocho**                           | **Leonardo Chuquimarca**                           |
-| Lider, Desarrollador FrontEnd                                | Diseñador UX/UI                                | Arquitecto de software                                |
-
+<table>
+  <tr align="center">
+    <td>
+      <img src="https://i.postimg.cc/13qQdqZs/utpllogo.png" alt="Foto 1" width="100"/>
+      <br/>
+      <strong>Nombre 1</strong>
+      <br/>
+      Cargo 1
+    </td>
+    <td>
+      <img src="https://i.postimg.cc/13qQdqZs/utpllogo.png" alt="Foto 2" width="100"/>
+      <br/>
+      <strong>Nombre 2</strong>
+      <br/>
+      Cargo 2
+    </td>
+    <td>
+      <img src="https://i.postimg.cc/13qQdqZs/utpllogo.png" alt="Foto 3" width="100"/>
+      <br/>
+      <strong>Nombre 3</strong>
+      <br/>
+      Cargo 3
+    </td>
+  </tr>
+  <tr align="center">
+    <td>
+      <img src="https://i.postimg.cc/13qQdqZs/utpllogo.png" alt="Foto 4" width="100"/>
+      <br/>
+      <strong>Nombre 4</strong>
+      <br/>
+      Cargo 4
+    </td>
+    <td>
+      <img src="https://i.postimg.cc/13qQdqZs/utpllogo.png" alt="Foto 5" width="100"/>
+      <br/>
+      <strong>Nombre 5</strong>
+      <br/>
+      Cargo 5
+    </td>
+    <td>
+      <img src="https://i.postimg.cc/13qQdqZs/utpllogo.png" alt="Foto 6" width="100"/>
+      <br/>
+      <strong>Nombre 6</strong>
+      <br/>
+      Cargo 6
+    </td>
+  </tr>
+</table>
+                              |
 
 - **Jhon Calle** (PRODUCT MANAGER)
 - **Pablo Reyes** (FRONTEND)
