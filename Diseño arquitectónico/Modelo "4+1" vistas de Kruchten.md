@@ -24,9 +24,8 @@ El **modelo 4+1 de vistas arquitectónicas** es un marco conceptual desarrollado
 5. **Vista Física **  
    Describe cómo se implementa el sistema en la infraestructura física, mostrando servidores, redes y cómo se distribuyen los componentes en el hardware.
 
-## Beneficios del Modelo 4+1
-- Facilita la **separación de preocupaciones** al abordar diferentes aspectos del sistema de forma independiente.
-- Proporciona una **visión integral** del sistema, alineando las diferentes perspectivas.
-- Mejora la **comunicación** entre equipos técnicos y no técnicos, al adaptar las vistas a las necesidades de cada grupo.
+## ISO 42010
 
-Este modelo se utiliza ampliamente en ingeniería de software para diseñar y documentar arquitecturas robustas y bien estructuradas.
+<p align="right">
+  <img src="https://i.postimg.cc/RZ03rFph/iso-42010.png" alt="iso 42010"/>
+</p>
