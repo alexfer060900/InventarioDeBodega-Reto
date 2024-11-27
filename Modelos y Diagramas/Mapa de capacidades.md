@@ -16,7 +16,7 @@ Un mapa de capacidades generalmente se divide en módulos o áreas de alto nivel
 ## Mapa de Capacidades de la Aplicación de Gestión de Inventario de Bodega
 
 <p align="center">
-  <img src="https://i.postimg.cc/fyqNG7LT/Mapa-de-Capacidades.png" alt="Mapa de Capacidades"/>
+  <img src="https://i.postimg.cc/KzcK22FG/Mapa-de-Capacidades.png" alt="Mapa de Capacidades"/>
 </p>
 
 Este mapa de capacidades se ha diseñado para una aplicación móvil enfocada en la gestión de inventarios en un entorno de bodega. La aplicación está organizada en cuatro módulos principales:
