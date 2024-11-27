@@ -26,6 +26,6 @@ El **modelo 4+1 de vistas arquitectónicas** es un marco conceptual desarrollado
 
 ## ISO 42010
 
-<p align="right">
+<p align="center">
   <img src="https://i.postimg.cc/RZ03rFph/iso-42010.png" alt="iso 42010"/>
 </p>
