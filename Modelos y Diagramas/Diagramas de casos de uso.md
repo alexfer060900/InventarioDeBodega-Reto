@@ -55,9 +55,15 @@ La estructura de un diagrama de casos de uso incluye los siguientes componentes 
   <img src="https://i.postimg.cc/NFFhky4h/Inventario-de-Bodega-Caso-de-Uso-1.png" alt="Diagrama de caso de uso (Registro)"/>
 </p>
 
-   - **Ingresar usuarios**: El administrador de la aplicación ingresa usuarios al aplicativo, para validar de que ese usuario es miembro de la *Universidad técnica particular de Loja* (UTPL) y que tiene acceso a las bodegas de la universidad, extrae la información de la base de datos de la UTPL.
+   | **D1**              | **Genera informe del Componente** |
+|----------------------|-----------------------------------|
+| **Actor principal**  | **Personal administrativo**      |
+| **Actores secundarios** |                               |
+| **Flujo normal**     |                                   |
+| 1. El inventario notifica irregularidad del componente. | |
+| 2. Inventario genera informe del componente.            | |
+| 3. El personal administrativo revisa el informe.        | |
 
-   - **Ingresar Componentes**: El administrador de la aplicación ingresa los componentes que posee la bodega de la UTPL, dichos componentes pueden pertenecer a una de las categorías del aplicativo, estos son, *suministros de oficina*, *equipos y mobiliario*, *tecnología*, *material deportivo*, *material de limpieza y seguridad* y *libros y material bibliográfico*.
 
 ## 2. Diagrama de caso de uso (Gestión)
 
