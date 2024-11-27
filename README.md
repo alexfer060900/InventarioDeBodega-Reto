@@ -19,48 +19,48 @@ CLOUDCORE es una empresa especializada en soluciones de computación en la nube,
 <table style="width: 100%; table-layout: fixed;">
   <tr align="center">
     <td>
-      <img src="https://i.postimg.cc/13qQdqZs/utpllogo.png" alt="Foto 1" width="100"/>
+      <img src="https://i.postimg.cc/ydXQ3V4M/Perfil-Pablo.png" alt="Foto Pablo Reyes" width="100"/>
       <br/>
-      <strong>Nombre 1</strong>
+      <strong>Pablo Reyes</strong>
       <br/>
-      Cargo 1
+      Lider, Desarrollador de FrontEnd
     </td>
     <td>
-      <img src="https://i.postimg.cc/13qQdqZs/utpllogo.png" alt="Foto 2" width="100"/>
+      <img src="https://i.postimg.cc/nhgw6RGP/Perfil-Carlos.png" alt="Foto Carlos Morocho" width="100"/>
       <br/>
-      <strong>Nombre 2</strong>
+      <strong>Carlos Morocho</strong>
       <br/>
-      Cargo 2
+      Diseñador UX/UI
     </td>
     <td>
-      <img src="https://i.postimg.cc/13qQdqZs/utpllogo.png" alt="Foto 3" width="100"/>
+      <img src="https://i.postimg.cc/VvT0gCX2/Perfil-Leonardo.png" alt="Foto Leonardo Chuquimarca" width="100"/>
       <br/>
-      <strong>Nombre 3</strong>
+      <strong>Leonardo Chuquimarca</strong>
       <br/>
-      Cargo 3
+      Arquitecto de software
     </td>
   </tr>
   <tr align="center">
     <td>
-      <img src="https://i.postimg.cc/13qQdqZs/utpllogo.png" alt="Foto 4" width="100"/>
+      <img src="https://i.postimg.cc/13qQdqZs/utpllogo.png" alt="Foto Jhon Calle" width="100"/>
       <br/>
-      <strong>Nombre 4</strong>
+      <strong>Jhon Calle</strong>
       <br/>
-      Cargo 4
+      Product Manager
     </td>
     <td>
-      <img src="https://i.postimg.cc/13qQdqZs/utpllogo.png" alt="Foto 5" width="100"/>
+      <img src="https://i.postimg.cc/13qQdqZs/utpllogo.png" alt="Foto Jorge Armijos" width="100"/>
       <br/>
-      <strong>Nombre 5</strong>
+      <strong>Jorge Armijos</strong>
       <br/>
-      Cargo 5
+      Desarrollador BackEnd
     </td>
     <td>
-      <img src="https://i.postimg.cc/13qQdqZs/utpllogo.png" alt="Foto 6" width="100"/>
+      <img src="https://i.postimg.cc/13qQdqZs/utpllogo.png" alt="Foto Alex Aguirre" width="100"/>
       <br/>
-      <strong>Nombre 6</strong>
+      <strong>Alex Aguirre</strong>
       <br/>
-      Cargo 6
+      Analista de negocio
     </td>
   </tr>
 </table>
