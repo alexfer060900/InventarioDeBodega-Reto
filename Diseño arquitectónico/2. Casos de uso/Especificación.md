@@ -3,7 +3,7 @@
 </p>
 
 
-# Diagrama de casos de uso para la Aplicación de Gestión de inventario de Bodega
+# Diagrama de casos de uso 
 
 ## ¿Qué es un diagrama de casos de uso?
 
