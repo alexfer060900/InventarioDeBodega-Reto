@@ -87,6 +87,3 @@ El módulo de **Ejecución** es responsable de la entrega y devolución de los c
 
 Este módulo asegura que los materiales estén disponibles para su uso y que se puedan recuperar para futuras necesidades.
 
-## Conclusión
-
-El **Mapa de Capacidades** descrito en este documento ofrece una visión completa de las capacidades y funcionalidades de la aplicación móvil de gestión de inventario de bodega. Al dividir las capacidades en los módulos de **Registro**, **Gestión**, **Monitoreo** y **Ejecución**, se puede abordar la gestión del inventario de una manera estructurada y eficiente, asegurando que cada parte del sistema tenga un propósito claro y que la operación de la bodega sea ágil y efectiva.
