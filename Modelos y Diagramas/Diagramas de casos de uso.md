@@ -55,14 +55,18 @@ La estructura de un diagrama de casos de uso incluye los siguientes componentes 
   <img src="https://i.postimg.cc/NFFhky4h/Inventario-de-Bodega-Caso-de-Uso-1.png" alt="Diagrama de caso de uso (Registro)"/>
 </p>
 
-| **D1**              | **Genera informe del Componente** |                                  |
-|----------------------|-----------------------------------|----------------------------------|
-| **Actor principal**  | **Personal administrativo**      | **Actores secundarios**         |
-| **Flujo normal**     |                                   |                                  |
-| 1. El inventario notifica irregularidad del componente. |                                  |
-| 2. Inventario genera informe del componente.            |                                  |
-| 3. El personal administrativo revisa el informe.        |                                  |
+## Descripción del caso del primer uso: Registro 
 
+### Caso: Ingresar usuarios
+
+1. El personal administrativo ingresa sus credenciales a UTPL.
+2. UTPL valida las credenciales del personal administrativo. 
+
+### Caso: Ingresar Componentes
+
+1. El personal administrativo ingresa un componente al inventario.
+2. El inventario valida la existencia del componente.
+3. El inventario guarda el componente. 
 
 ## 2. Diagrama de caso de uso (Gestión)
 
@@ -70,9 +74,19 @@ La estructura de un diagrama de casos de uso incluye los siguientes componentes 
   <img src="https://i.postimg.cc/L5bcCHCJ/Inventario-de-Bodega-Caso-de-Uso-2.png" alt="Diagrama de caso de uso (Gestion)"/>
 </p>
 
-  - **Gestionar inventario**: El personal administrativo tiene la capacidad de gestionar el inventario que posee las bodegas de la UTPL, tiene la capacidad de *clasificar componentes*, *verificar el estado del componente* en el que se encuentra en ese momento y visualizar un *historial de rotación de componentes*.
+ ## Descripción del segundo caso de uso: Gestión 
 
-  - **Gestionar orden de compra**: El personal administrativo tiene la capacidad de gestionar la orden de compra o solicitud de componentes, para realizar dicha orden, el aplicativo *verifica la existencia de componentes* desde su base de datos interna, el personal administrativo puede *solicitar orden de compra* de los componentes que estén disponibles en el aplicativo, y por ultimo, *puede aprobar o denegar la orden compra*
+ ### Caso: Gestionar Inventario
+
+1. Personal administrativo verifica la existencia del componente. 
+2. El inventario valida la existencia del componente.  
+3. Personal administrativo verifica el estado del componente. 
+4. El inventario actualiza el estado del componente. 
+
+ ### Caso: Clasificar Componentes 
+
+1.Personal administrativo clasifica los componentes según su tipo. 
+2. El inventario muestra los componentes por tipo. 
 
 ## 3. Diagrama de caso de uso (Monitoreo)
 
@@ -80,9 +94,26 @@ La estructura de un diagrama de casos de uso incluye los siguientes componentes 
   <img src="https://i.postimg.cc/9FzVGk84/Inventario-de-Bodega-Caso-de-Uso-3.png" alt="Diagrama de caso de uso (Monitoreo)"/>
 </p>
 
-- **Monitorear inventario**: El personal administrativo puede monitorear el inventario desde el aplicativo, dicho monitoreo se lo realiza *identificando el componente* y accediendo a su información, además el aplicativo tiene la capacidad de *generar un informe* que posee la información sobre el componente identificado.
+ ## Descripción del tercer caso de uso: Monitoreo
 
-- **Generar Alertas**: El aplicativo tiene la capacidad de *generar alertas en tiempo real*, estas alertas pueden ser de dos tipos, "caducidad de componentes" que es cuando un componente este próximo a caducarse, y *estado de componente* que es el estado actual del componente.
+ ### Caso: Generar informe del Componente 
+ 
+1. El inventario notifica irregularidad del componente. 
+2. Inventario genera informe del componente. 
+3. El personal administrativo revisa el informe 
+
+ ### Caso: Generar alertas 
+ 
+1. El inventario detecta condiciones de alerta 
+2. El inventario genera la alerta 
+3. El personal administrativo recibe la alerta 
+
+ ### Caso: Monitorear movimientos del componente 
+ 
+1. El inventario notifica los ingresos de los componentes. 
+2. El personal administrativo monitorea los ingresos de los componentes. 
+3. El inventario notifica los egresos de los componentes. 
+4. El personal administrativo monitorea los egresos de los componentes 
 
 ## 4. Diagrama de caso de uso (Ejecución)
 
@@ -90,4 +121,8 @@ La estructura de un diagrama de casos de uso incluye los siguientes componentes 
   <img src="https://i.postimg.cc/v80bxyzF/Inventario-de-Bodega-Caso-de-Uso-4.png" alt="Diagrama de caso de uso (Ejecucion)"/>
 </p>
 
-- **Entregar componentes**: El personal administrativo tiene la capacidad de entregar componentes, para entregar los componentes, debe *recibir una solicitud* de componentes mediante otro aplicativo, mediante el aplicativo de gestión de inventario *despacha los componentes*, una vez recibido los componentes se *confirma la recepción* de los componentes, mediante el aplicativo de gestión de inventario se *devuelven los componentes* que ya no se desea usar.
+ ### Caso: Solicitar Componentes 
+ 
+1. El servicio checklist del inventario envía solicitud del componente. 
+2. Personal administrativo recibe solicitud del componente.  
+3. Personal administrativo acepta o rechaza la solicitud del componente. 
