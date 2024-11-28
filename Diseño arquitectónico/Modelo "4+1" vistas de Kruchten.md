@@ -21,7 +21,7 @@ El **modelo 4+1 de vistas arquitectónicas** es un marco conceptual desarrollado
 4. **Vista de Desarrollo**  
    Representa la organización del software desde la perspectiva del equipo de desarrollo. Detalla la estructura del código, los módulos, bibliotecas y cómo se empaqueta el sistema.
 
-5. **Vista Física**  
+5. **Vista de despliegue**  
    Describe cómo se implementa el sistema en la infraestructura física, mostrando servidores, redes y cómo se distribuyen los componentes en el hardware.
 
 ## ISO 42010
