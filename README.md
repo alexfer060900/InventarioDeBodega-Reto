@@ -82,24 +82,6 @@ Desarrollar un **aplicativo móvil** para gestionar el inventario de la bodega d
 - Implementar un sistema en la nube para centralizar y automatizar el control del inventario.
 - Proporcionar una solución móvil que permita a los usuarios registrar y consultar el inventario en tiempo real.
 
-## Fases de Desarrollo
-
-1. **Primera Fase:** 
-   - Recopilación de la información necesaria para el desarrollo del aplicativo móvil.
-   - Identificación de los requisitos funcionales y no funcionales.
-   
-2. **Segunda Fase:**
-   - Diseño de un prototipo de alta fidelidad basado en la información recopilada.
-   - Validación del diseño con las partes interesadas.
-
-3. **Tercera Fase:**
-   - Desarrollo del aplicativo móvil utilizando **Flutter** y **Firebase**.
-   - Implementación de la arquitectura de la base de datos en la nube.
-
-4. **Cuarta Fase:**
-   - Despliegue del aplicativo móvil en **Google Play Store**.
-   - Pruebas de usuario y ajustes finales.
-
 ## [PROTOTIPO DE ALTA FIDELIDAD](https://www.figma.com/proto/uatryMPY8xkGhpQikBVEPS/Prototipo-Inventario-de-bodega?node-id=1-4&node-type=canvas&t=9As6dMOQAscuw05o-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A4)
   <div align="center">
   <img src="https://i.postimg.cc/15TSMK2v/qr.png" alt="qr" width="150"/>
