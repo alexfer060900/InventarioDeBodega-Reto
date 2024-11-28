@@ -59,6 +59,11 @@ La estructura de un diagrama de casos de uso incluye los siguientes componentes 
 
 ### Caso: Ingresar usuarios
 
+| *Nombre*           | Ingresar Usuario|
+|-----------------------|-------------------------------------------------|
+| *Actores*          | - Personal administrativo<br>- BD UTPL       |
+| *Flujo normal*     | 1. El personal administrativo ingresa sus credenciales a UTPL.<br>2. UTPL valida las credenciales del personal administrativo.<br>|
+
 1. El personal administrativo ingresa sus credenciales a UTPL.
 2. UTPL valida las credenciales del personal administrativo. 
 
