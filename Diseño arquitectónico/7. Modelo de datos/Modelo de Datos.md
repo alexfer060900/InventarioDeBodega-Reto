@@ -30,11 +30,6 @@ Ejemplo: Los atributos de un cliente pueden incluir:
 Describen cómo las entidades están conectadas entre sí y cómo interactúan. 
 Ejemplo: Un cliente puede tener una relación de "realiza" con varias órdenes en un sistema de ventas.
 
-### 4. **Restricciones**
-Definen reglas o condiciones que los datos deben cumplir. Esto incluye:
-- Claves primarias: Identificadores únicos para una entidad.
-- Claves foráneas: Identificadores que conectan entidades relacionadas.
-
 ### Tipos comunes de modelos de datos:
 - **Modelo conceptual**: Representación abstracta, como diagramas Entidad-Relación (ER).
 - **Modelo lógico**: Especifica estructuras detalladas como tablas y columnas.
