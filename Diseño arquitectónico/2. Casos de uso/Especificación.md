@@ -64,14 +64,13 @@ La estructura de un diagrama de casos de uso incluye los siguientes componentes 
 | *Actores*          | - Personal administrativo<br>- BD UTPL       |
 | *Flujo normal*     | 1. El personal administrativo ingresa sus credenciales a UTPL.<br>2. UTPL valida las credenciales del personal administrativo.<br>|
 
-1. El personal administrativo ingresa sus credenciales a UTPL.
-2. UTPL valida las credenciales del personal administrativo. 
-
 ### Caso: Ingresar Componentes
 
-1. El personal administrativo ingresa un componente al inventario.
-2. El inventario valida la existencia del componente.
-3. El inventario guarda el componente. 
+| *Nombre*           | Ingresar Componentes                                       |
+|-----------------------|-------------------------------------------------|
+| *Actores*          | - Personal administrativo<br>- Inventario      |
+| *Flujo normal*     | 1. El personal administrativo ingresa un componente al inventario.<br>2. El inventario valida la existencia del componente.<br>3. El inventario guarda el componente. |
+
 
 ## 2. Diagrama de caso de uso (Gestión)
 
@@ -83,15 +82,18 @@ La estructura de un diagrama de casos de uso incluye los siguientes componentes 
 
  ### Caso: Gestionar Inventario
 
-1. Personal administrativo verifica la existencia del componente. 
-2. El inventario valida la existencia del componente.  
-3. Personal administrativo verifica el estado del componente. 
-4. El inventario actualiza el estado del componente. 
+| *Nombre*           | Gestionar Inventario                                       |
+|-----------------------|-------------------------------------------------|
+| *Actores*          | - Personal administrativo<br>- BD Inventario      |
+| *Flujo normal*     | 1. Personal administrativo verifica la existencia del componente. <br>2. El inventario valida la existencia del componente.<br>3. Personal administrativo verifica el estado del componente. <br>4. El inventario actualiza el estado del componente. |
 
  ### Caso: Clasificar Componentes 
 
-1.Personal administrativo clasifica los componentes según su tipo. 
-2. El inventario muestra los componentes por tipo. 
+| *Nombre*           | Clasificar Componentes                                       |
+|-----------------------|-------------------------------------------------|
+| *Actores*          | - Personal administrativo      |
+| *Flujo normal*     | 1. Personal administrativo clasifica los componentes según su tipo. <br>2. El inventario muestra los componentes por tipo. |
+
 
 ## 3. Diagrama de caso de uso (Monitoreo)
 
@@ -102,24 +104,27 @@ La estructura de un diagrama de casos de uso incluye los siguientes componentes 
  ## Descripción del tercer caso de uso: Monitoreo
 
  ### Caso: Generar informe del Componente 
- 
-1. El inventario notifica irregularidad del componente. 
-2. Inventario genera informe del componente. 
-3. El personal administrativo revisa el informe 
+
+| *Nombre*           | Generar informe del Componente                                       |
+|-----------------------|-------------------------------------------------|
+| *Actores*          | - Personal administrativo     |
+| *Flujo normal*     | 1. El inventario notifica irregularidad del componente. <br>2. Inventario genera informe del componente.<br>3. El personal administrativo revisa el informe. |
 
  ### Caso: Generar alertas 
- 
-1. El inventario detecta condiciones de alerta 
-2. El inventario genera la alerta 
-3. El personal administrativo recibe la alerta 
+
+| *Nombre*           | Generar alertas                                       |
+|-----------------------|-------------------------------------------------|
+| *Actores*          | - Personal administrativo     |
+| *Flujo normal*     | 1. Personal administrativo verifica la existencia del componente. <br>2. El inventario valida la existencia del componente.<br>3. Personal administrativo verifica el estado del componente. <br>4. El inventario actualiza el estado del componente. |
+
 
  ### Caso: Monitorear movimientos del componente 
- 
-1. El inventario notifica los ingresos de los componentes. 
-2. El personal administrativo monitorea los ingresos de los componentes. 
-3. El inventario notifica los egresos de los componentes. 
-4. El personal administrativo monitorea los egresos de los componentes 
 
+| *Nombre*           | Monitorear movimientos del componente                                     |
+|-----------------------|-------------------------------------------------|
+| *Actores*          | - Personal administrativo     |
+| *Flujo normal*     | 1. El inventario notifica los ingresos de los componentes.  <br>2. El personal administrativo monitorea los ingresos de los componentes. <br>3. El inventario notifica los egresos de los componentes.  <br>4. El personal administrativo monitorea los egresos de los componentes  |
+ 
 ## 4. Diagrama de caso de uso (Ejecución)
 
 <p align="center">
@@ -127,7 +132,9 @@ La estructura de un diagrama de casos de uso incluye los siguientes componentes 
 </p>
 
  ### Caso: Solicitar Componentes 
+
+| *Nombre*           | Solicitar Componentes                                    |
+|-----------------------|-------------------------------------------------|
+| *Actores*          | - Personal administrativo<br>- Servicio checklist de inventario       |
+| *Flujo normal*     | 1. El servicio checklist del inventario envía solicitud del componente. <br>2. Personal administrativo recibe solicitud del componente.<br>3. Personal administrativo acepta o rechaza la solicitud del componente.  |
  
-1. El servicio checklist del inventario envía solicitud del componente. 
-2. Personal administrativo recibe solicitud del componente.  
-3. Personal administrativo acepta o rechaza la solicitud del componente. 
