@@ -9,7 +9,7 @@ El **modelo 4+1 de vistas arquitectónicas** es un marco conceptual desarrollado
 
 ## ¿Qué son las 4+1 vistas?
 
-1. **Escenarios**  
+1. **Casos de uso**  
    Proporcionan ejemplos concretos que demuestran cómo las diferentes vistas trabajan juntas para satisfacer los requisitos del sistema. Los casos de uso ayudan a validar y comunicar el diseño al ilustrar comportamientos clave del sistema.
 
 2. **Vista Lógica**  
