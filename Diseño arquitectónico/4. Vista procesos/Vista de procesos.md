@@ -80,4 +80,4 @@ Los diagramas de robustez son una herramienta de modelado utilizada en el diseñ
 - *Controladores:* Representan la lógica de la aplicación y la interacción entre actores y entidades. Se muestran como círculos u óvalos.  
 - *Relaciones:* Representan las conexiones entre actores, controladores y entidades mediante líneas con etiquetas que describen la interacción.
 
-## Foto del diagrama
+## Diagramas de robustez
