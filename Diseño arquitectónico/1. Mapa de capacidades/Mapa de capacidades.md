@@ -26,64 +26,83 @@ Este mapa de capacidades se ha diseñado para una aplicación móvil enfocada en
 3. **Monitoreo**
 4. **Ejecución**
 
-### Descripción de los Módulos
+# Descripción de los Módulos
 
-#### 1. Registro
+## Registro
 
-El módulo de **Registro** se encarga de la incorporación de usuarios y componentes al sistema. Este módulo asegura que sólo el personal autorizado tenga acceso a las funcionalidades críticas de la aplicación y permite organizar el inventario por tipos de materiales y equipos. Las capacidades principales en este módulo incluyen:
+El módulo de **Registro** se encarga de la incorporación de usuarios y componentes al sistema. Este módulo asegura que solo el personal autorizado tenga acceso a las funcionalidades críticas de la aplicación y el ingreso adecuado en el inventario por tipos de materiales y equipos.
 
-- **Ingreso de usuarios**: Permite el registro de personal autorizado en el sistema.
-- **Ingreso de componentes**: Abarca la clasificación de los componentes de la bodega en diversas categorías:
-  - Suministros de oficina
-  - Equipos y mobiliario
-  - Inventario de tecnología
-  - Material deportivo
-  - Material de limpieza y seguridad
-  - Libros y material bibliográfico
+### Funcionalidades principales:
+1. **Ingresar usuarios**  
+   Permite registrar nuevos usuarios en el sistema y validar que cuenten con los permisos adecuados.  
+   - Validar usuarios: Se asegura de que los datos ingresados sean correctos y el usuario esté autorizado para acceder al sistema.  
 
-Este módulo establece la base del sistema de inventario, asegurando que todos los elementos sean registrados y organizados adecuadamente.
+2. **Ingresar componentes**  
+   Permite el registro de los diferentes tipos de componentes en el sistema para una mejor organización y control del inventario.  
+   - Ingresar suministros de oficina  
+   - Ingresar equipos y mobiliario  
+   - Ingresar inventario de tecnología  
+   - Ingresar material deportivo  
+   - Ingresar material de limpieza y seguridad  
+   - Ingresar libros y material bibliográfico  
 
-#### 2. Gestión
+Este módulo establece la base del sistema, asegurando que todos los elementos sean registrados e ingresados correctamente.
 
-El módulo de **Gestión** está enfocado en el manejo del inventario y las solicitudes de componentes. Además, incluye actividades de mantenimiento preventivo para asegurar el buen estado de los materiales. Las capacidades dentro de este módulo son:
 
-- **Petición de componentes**:
-  - Solicitud de componentes: Permite a los usuarios solicitar materiales específicos.
-  - Aprobación automática de solicitudes: Procesa solicitudes de componentes de manera automatizada.
-- **Gestión de inventario**:
-  - Ingreso de componentes: Permite registrar la entrada de nuevos componentes al inventario.
-  - Clasificación de componentes: Organiza los componentes según su tipo.
-  - Control de calidad: Verifica el estado de los componentes.
-  - Verificación de existencia del componente: Asegura que haya disponibilidad del material solicitado.
-- **Mantenimiento preventivo**:
-  - Calendario de revisión: Planifica las fechas para revisar el inventario.
-  - Revisión de manuales: Proporciona instrucciones para el mantenimiento adecuado de los componentes.
 
-Este módulo garantiza que los recursos en inventario estén bien gestionados y disponibles cuando sean necesarios.
+## Gestión
 
-#### 3. Monitoreo
+El módulo de **Gestión** está diseñado para manejar y supervisar el inventario, asegurando que los componentes estén disponibles y en buen estado.
 
-El módulo de **Monitoreo** permite supervisar continuamente el estado del inventario y emite alertas para anticiparse a posibles problemas, como desabastecimiento o caducidad de componentes. Las capacidades en este módulo incluyen:
+### Funcionalidades principales:
+1. **Gestionar inventario**  
+   Permite realizar tareas relacionadas con la supervisión y control del inventario.  
+   - Verificar existencia del componente: Confirma que los materiales requeridos están disponibles en stock.  
+   - Verificar estado del componente: Inspecciona las condiciones de los materiales para garantizar su calidad y funcionalidad.  
 
-- **Monitoreo de inventario físico**:
-  - Estado del componente: Controla el estado de los materiales.
-  - Cantidad del componente: Registra la cantidad disponible de cada componente.
-  - Movimientos del inventario: Realiza el seguimiento de entradas y salidas de inventario.
-- **Alertas**:
-  - Generación de alertas de desabastecimiento y reabastecimiento: Notifica cuando se necesita reabastecer el inventario.
-  - Alerta de caducidad de componentes: Informa sobre componentes que están próximos a vencer.
-  - Alerta de ineficiencia: Identifica componentes o procesos que podrían ser mejorados.
+2. **Clasificar componentes**  
+   Organiza los componentes del inventario en diferentes categorías para facilitar su gestión y localización.  
+   - Clasificar suministros de oficina  
+   - Clasificar equipos y mobiliario  
+   - Clasificar inventario de tecnología  
+   - Clasificar material deportivo  
+   - Clasificar material de limpieza y seguridad  
+   - Clasificar libros y material bibliográfico  
 
-Este módulo permite una supervisión proactiva del inventario, facilitando una respuesta rápida a posibles problemas.
+Este módulo optimiza el uso de los recursos disponibles y asegura que estén correctamente organizados.
 
-#### 4. Ejecución
 
-El módulo de **Ejecución** es responsable de la entrega y devolución de los componentes de inventario, así como de responder ante situaciones de urgencia. Las capacidades de este módulo incluyen:
 
-- **Ejecución y operación**:
-  - Entrega de componentes: Gestiona la distribución de componentes a quienes los necesitan.
-  - Devolución de componentes: Controla el retorno de materiales al inventario.
-  - Capacidad de respuesta ante urgencias: Facilita una respuesta rápida ante situaciones que requieren componentes de manera inmediata.
+## Monitoreo
 
-Este módulo asegura que los materiales estén disponibles para su uso y que se puedan recuperar para futuras necesidades.
+El módulo de **Monitoreo** permite supervisar continuamente el estado del inventario y generar notificaciones para prevenir problemas relacionados con la falta de materiales o irregularidades en los mismos.
 
+### Funcionalidades principales:
+1. **Generar informe del componente**  
+   Proporciona detalles sobre el estado y la cantidad de los componentes en el sistema.  
+   - Notificar irregularidad del componente: Identifica problemas o inconsistencias en los componentes registrados.  
+
+2. **Generar alertas**  
+   Ayuda a anticiparse a posibles inconvenientes mediante notificaciones automáticas.  
+   - Alertar cantidad mínima del componente: Informa cuando el stock de un componente alcanza niveles críticos.  
+   - Alertar estado del componente: Notifica sobre el deterioro o mal estado de un componente.  
+
+3. **Monitorear movimientos del componente**  
+   Lleva un registro detallado de las entradas y salidas de los componentes del inventario.  
+   - Notificar ingreso del componente  
+   - Notificar egreso del componente  
+
+Este módulo permite una supervisión proactiva, facilitando una respuesta rápida ante problemas.
+
+
+
+## Ejecución
+
+El módulo de **Ejecución** es responsable de atender las solicitudes de componentes y garantizar que los materiales sean entregados de manera eficiente.
+
+### Funcionalidades principales:
+1. **Solicitar componentes**  
+   Permite a los usuarios gestionar solicitudes de materiales según las necesidades operativas.  
+   - Gestionar solicitudes de componentes: Procesa y organiza las solicitudes para una entrega oportuna.  
+
+Este módulo asegura que los materiales estén disponibles para su uso cuando se necesiten y que las solicitudes sean atendidas eficientemente.
