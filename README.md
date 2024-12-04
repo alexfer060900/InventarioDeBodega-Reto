@@ -89,14 +89,14 @@ Desarrollar un **aplicativo móvil** para gestionar el inventario de la bodega d
   
 ## Tecnologías y Herramientas
 
-- **Flutter**: Framework de desarrollo para la creación de aplicaciones móviles multiplataforma.
+- **React**: Biblioteca Javascript de código abierto diseñada para crear interfaces de usuario.
   <div align="center">
-  <img src="https://i.postimg.cc/wv6Y34Rj/flutterlogo.png" alt="Flutter Logo" width="100"/>
+  <img src="https://github.com/user-attachments/assets/5ad6d302-b841-47b2-8102-6bb3eeae1f5" alt="React Logo" width="100"/>
   </div>
   
 - **Firebase**: Plataforma en la nube para backend, gestión de bases de datos en tiempo real y autenticación de usuarios.
   <div align="center">
-  <img src="https://github.com/user-attachments/assets/5ad6d302-b841-47b2-8102-6bb3eeae1f55" width="150"/>
+  <img src="https://github.com/user-attachments/assets/26e8ff7e-e33d-40a8-9c1e-86bfb16bcfd0" width="150"/>
   </div>
   
 - **Android Studio**: Entorno de desarrollo integrado (IDE) para Flutter.
