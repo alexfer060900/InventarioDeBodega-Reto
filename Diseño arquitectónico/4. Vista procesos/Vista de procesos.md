@@ -82,3 +82,5 @@ Los diagramas de robustez son una herramienta de modelado utilizada en el diseñ
 
 ## Diagramas de robustez
 
+### Diagrama 1: Inicio de sesión y gestión de componentes
+![Inventario de Bodega-Diagrama de robustez 1 drawio](https://github.com/user-attachments/assets/1d78dbe3-2859-45e6-918f-410d7b27be62)
