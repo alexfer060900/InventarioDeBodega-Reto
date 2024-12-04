@@ -96,7 +96,7 @@ Desarrollar un **aplicativo móvil** para gestionar el inventario de la bodega d
   
 - **Firebase**: Plataforma en la nube para backend, gestión de bases de datos en tiempo real y autenticación de usuarios.
   <div align="center">
-  <img src="https://i.postimg.cc/GpP1Ln2f/firebaselogo.png" alt="Firebase Logo" width="150"/>
+  <img src="https://github.com/user-attachments/assets/5ad6d302-b841-47b2-8102-6bb3eeae1f55" width="150"/>
   </div>
   
 - **Android Studio**: Entorno de desarrollo integrado (IDE) para Flutter.
