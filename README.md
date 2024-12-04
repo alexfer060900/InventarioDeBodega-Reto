@@ -91,7 +91,7 @@ Desarrollar un **aplicativo móvil** para gestionar el inventario de la bodega d
 
 - **React**: Biblioteca Javascript de código abierto diseñada para crear interfaces de usuario.
   <div align="center">
-  <img src="https://github.com/user-attachments/assets/5ad6d302-b841-47b2-8102-6bb3eeae1f5" alt="React Logo" width="100"/>
+  <img src="https://github.com/user-attachments/assets/9cd06eed-ac5e-4216-99da-6479599ed724" alt="React Logo" width="100"/>
   </div>
   
 - **Firebase**: Plataforma en la nube para backend, gestión de bases de datos en tiempo real y autenticación de usuarios.
