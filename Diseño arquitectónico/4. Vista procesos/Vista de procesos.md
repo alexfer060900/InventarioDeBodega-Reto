@@ -84,3 +84,13 @@ Los diagramas de robustez son una herramienta de modelado utilizada en el diseñ
 
 ### Diagrama 1: Inicio de sesión y gestión de componentes
 ![Inventario de Bodega-Diagrama de robustez 1 drawio](https://github.com/user-attachments/assets/1d78dbe3-2859-45e6-918f-410d7b27be62)
+
+### Diagrama 2: Verificación y clasificación de componentes
+![Inventario de Bodega-Diagrama de robustez 2 drawio](https://github.com/user-attachments/assets/93c36c2c-98f6-4578-b30a-88d3d5a321fa)
+
+### Diagrama 3: Generación de informes y alertas
+![Inventario de Bodega-Diagrama de robustez 3 drawio](https://github.com/user-attachments/assets/e0169cb3-08bb-431d-ae48-144674d0ee1c)
+
+### Diagrama 4: Gestión de solicitudes y actualización de componentes
+![Inventario de Bodega-Diagrama de robustez 4 drawio](https://github.com/user-attachments/assets/37a85346-2805-42dc-901c-bd3941a37bb4)
+
