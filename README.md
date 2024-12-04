@@ -84,14 +84,14 @@ Desarrollar un **aplicativo móvil** para gestionar el inventario de la bodega d
 
 ## [PROTOTIPO DE ALTA FIDELIDAD](https://www.figma.com/proto/uatryMPY8xkGhpQikBVEPS/Prototipo-Inventario-de-bodega?node-id=1-4&node-type=canvas&t=9As6dMOQAscuw05o-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A4)
   <div align="center">
-  <img src="https://i.postimg.cc/15TSMK2v/qr.png" alt="qr" width="150"/>
+  <img src="https://i.postimg.cc/15TSMK2v/qr.png" alt="qr" width="225"/>
   </div>
   
 ## Tecnologías y Herramientas
 
 - **React**: Biblioteca Javascript de código abierto diseñada para crear interfaces de usuario.
   <div align="center">
-  <img src="https://github.com/user-attachments/assets/9cd06eed-ac5e-4216-99da-6479599ed724" alt="React Logo" width="100"/>
+  <img src="https://github.com/user-attachments/assets/9cd06eed-ac5e-4216-99da-6479599ed724" alt="React Logo" width="150"/>
   </div>
   
 - **Firebase**: Plataforma en la nube para backend, gestión de bases de datos en tiempo real y autenticación de usuarios.
