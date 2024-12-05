@@ -50,7 +50,8 @@ La estructura de un diagrama de casos de uso incluye los siguientes componentes 
 
 ---
 ## 1. Diagrama de caso de uso (Registro)
-![Inventario de Bodega-Caso de Uso 1 drawio](https://github.com/user-attachments/assets/099a91d3-a023-432b-a218-ddcc0c56a7dd)
+![Inventario de Bodega-Caso de Uso 1 drawio](https://github.com/user-attachments/assets/5b250637-7e57-444a-8769-ecac1f117413)
+
 
 
 ## Descripción del caso del primer uso: Registro 
@@ -71,10 +72,8 @@ La estructura de un diagrama de casos de uso incluye los siguientes componentes 
 
 
 ## 2. Diagrama de caso de uso (Gestión)
+![Inventario de Bodega-Caso de Uso 2 drawio](https://github.com/user-attachments/assets/99f45a48-79d0-48c9-a886-4d52428b193a)
 
-<p align="center">
-  <img src="https://i.postimg.cc/L5bcCHCJ/Inventario-de-Bodega-Caso-de-Uso-2.png" alt="Diagrama de caso de uso (Gestion)"/>
-</p>
 
  ## Descripción del segundo caso de uso: Gestión 
 
@@ -94,10 +93,7 @@ La estructura de un diagrama de casos de uso incluye los siguientes componentes 
 
 
 ## 3. Diagrama de caso de uso (Monitoreo)
-
-<p align="center">
-  <img src="https://i.postimg.cc/9FzVGk84/Inventario-de-Bodega-Caso-de-Uso-3.png" alt="Diagrama de caso de uso (Monitoreo)"/>
-</p>
+![Inventario de Bodega-Caso de Uso 3 drawio](https://github.com/user-attachments/assets/828f2f96-45a1-4b5b-b0ff-11adf0cfdf2e)
 
  ## Descripción del tercer caso de uso: Monitoreo
 
@@ -122,15 +118,4 @@ La estructura de un diagrama de casos de uso incluye los siguientes componentes 
 |-----------------------|-------------------------------------------------|
 | *Actores*          | - Personal administrativo     |
 | *Flujo normal*     | 1. El inventario notifica los ingresos de los componentes.  <br>2. El personal administrativo monitorea los ingresos de los componentes. <br>3. El inventario notifica los egresos de los componentes.  <br>4. El personal administrativo monitorea los egresos de los componentes  |
- 
-## 4. Diagrama de caso de uso (Ejecución)
-![Inventario de Bodega-Caso de Uso 4 drawio](https://github.com/user-attachments/assets/d05024e8-5b74-41a8-8793-71ebe44c6110)
-
-
- ### Caso: Solicitar Componentes 
-
-| *Nombre*           | Solicitar Componentes                                    |
-|-----------------------|-------------------------------------------------|
-| *Actores*          | - Personal administrativo<br>- Servicio checklist de inventario       |
-| *Flujo normal*     | 1. El servicio checklist del inventario envía solicitud del componente. <br>2. Personal administrativo recibe solicitud del componente.<br>3. Personal administrativo acepta o rechaza la solicitud del componente.  |
  
