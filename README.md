@@ -107,7 +107,3 @@ Desarrollar un **aplicativo móvil** para gestionar el inventario de la bodega d
   <div align="center">
   <img src="https://i.postimg.cc/G2qwDPvJ/Android-Studilogo.png" alt="Android Studio Logo" width="150"/>
   </div>
-
-## Requisitos del Sistema
-- Android 8.0 o superior.
-- Conexión a internet para la sincronización en la nube.
