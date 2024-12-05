@@ -50,10 +50,8 @@ La estructura de un diagrama de casos de uso incluye los siguientes componentes 
 
 ---
 ## 1. Diagrama de caso de uso (Registro)
+![Inventario de Bodega-Caso de Uso 1 drawio](https://github.com/user-attachments/assets/099a91d3-a023-432b-a218-ddcc0c56a7dd)
 
-<p align="center">
-  <img src="https://i.postimg.cc/NFFhky4h/Inventario-de-Bodega-Caso-de-Uso-1.png" alt="Diagrama de caso de uso (Registro)"/>
-</p>
 
 ## Descripción del caso del primer uso: Registro 
 
@@ -126,10 +124,8 @@ La estructura de un diagrama de casos de uso incluye los siguientes componentes 
 | *Flujo normal*     | 1. El inventario notifica los ingresos de los componentes.  <br>2. El personal administrativo monitorea los ingresos de los componentes. <br>3. El inventario notifica los egresos de los componentes.  <br>4. El personal administrativo monitorea los egresos de los componentes  |
  
 ## 4. Diagrama de caso de uso (Ejecución)
+![Inventario de Bodega-Caso de Uso 4 drawio](https://github.com/user-attachments/assets/d05024e8-5b74-41a8-8793-71ebe44c6110)
 
-<p align="center">
-  <img src="https://i.postimg.cc/v80bxyzF/Inventario-de-Bodega-Caso-de-Uso-4.png" alt="Diagrama de caso de uso (Ejecucion)"/>
-</p>
 
  ### Caso: Solicitar Componentes 
 
