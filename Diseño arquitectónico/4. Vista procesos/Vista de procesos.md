@@ -17,7 +17,7 @@ Los diagramas de secuencia son una herramienta de modelado en la Ingeniería de 
 ## Diagramas de secuencia
 
 ### Diagrama 1: Inicio de sesión y gestión de componentes
-![Inventario de Bodega-Diagrama de secuencia 1 drawio](https://github.com/user-attachments/assets/262f461b-95f3-4472-a8e6-e47710da91f8)
+![Inventario de Bodega-Diagrama de secuencia 1 drawio](https://github.com/user-attachments/assets/ae2158de-bd25-46cf-8ea0-b3853ff16c10)
 
 
 **Explicación**:  
@@ -29,7 +29,8 @@ Este diagrama describe cómo el **Personal Administrativo** inicia sesión en el
 ---
 
 ### Diagrama 2: Verificación y clasificación de componentes
-![Inventario de Bodega-Diagrama de secuencia 2 drawio](https://github.com/user-attachments/assets/ef925c38-509f-4b46-a3ea-640d8525e339)
+![Inventario de Bodega-Diagrama de secuencia 2 drawio](https://github.com/user-attachments/assets/aee24bb0-3027-43b4-b5a2-a46fa9386ef4)
+
 
 
 **Explicación**:  
@@ -41,7 +42,7 @@ Este diagrama muestra el proceso de verificación y clasificación de componente
 ---
 
 ### Diagrama 3: Generación de informes y alertas
-![Inventario de Bodega-Diagrama de secuencia 3 drawio](https://github.com/user-attachments/assets/18745c72-27b0-472a-9ba0-e62266f20bc8)
+![Inventario de Bodega-Diagrama de secuencia 3 drawio](https://github.com/user-attachments/assets/e7f20d35-ce42-48ee-8b8e-e374eb61370d)
 
 
 **Explicación**:  
@@ -53,7 +54,7 @@ Aquí se describe el proceso de monitoreo de movimientos e irregularidades en el
 ---
 
 ### Diagrama 4: Gestión de solicitudes y actualización de componentes
-![Inventario de Bodega-Diagrama de secuencia 4 drawio](https://github.com/user-attachments/assets/23c2501a-d3fb-465e-bc4a-abbb9ec41205)
+![Inventario de Bodega-Diagrama de secuencia 4 drawio](https://github.com/user-attachments/assets/a2dd3f99-f089-476f-ad54-290d43ace38b)
 
 
 **Explicación**:  
