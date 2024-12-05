@@ -49,12 +49,12 @@ La estructura de un diagrama de casos de uso incluye los siguientes componentes 
    - Se ilustra como un rectángulo que contiene los casos de uso.
 
 ---
-## 1. Diagrama de caso de uso (Registro)
-![Inventario de Bodega-Caso de Uso 1 drawio](https://github.com/user-attachments/assets/5b250637-7e57-444a-8769-ecac1f117413)
+## 1. Diagrama de caso de uso (Planificación del Inventario)
+
+![Inventario de Bodega-Caso de Uso 1 drawio](https://github.com/user-attachments/assets/6f4a5a25-7169-4f94-80cf-fc6b68f12b8e)
 
 
-
-## Descripción del caso del primer uso: Registro 
+## Descripción del caso del primer uso: Planificación del Inventario
 
 ### Caso: Ingresar usuarios
 
@@ -71,11 +71,10 @@ La estructura de un diagrama de casos de uso incluye los siguientes componentes 
 | *Flujo normal*     | 1. El personal administrativo ingresa un componente al inventario.<br>2. El inventario valida la existencia del componente.<br>3. El inventario guarda el componente. |
 
 
-## 2. Diagrama de caso de uso (Gestión)
-![Inventario de Bodega-Caso de Uso 2 drawio](https://github.com/user-attachments/assets/99f45a48-79d0-48c9-a886-4d52428b193a)
+## 2. Diagrama de caso de uso (Aprovisionamiento)
+![Inventario de Bodega-Caso de Uso 2 drawio](https://github.com/user-attachments/assets/f6040192-3efa-4673-bfd5-0a3afd76bb5d)
 
-
- ## Descripción del segundo caso de uso: Gestión 
+ ## Descripción del segundo caso de uso: Aprovisionamiento
 
  ### Caso: Gestionar Inventario
 
@@ -92,10 +91,11 @@ La estructura de un diagrama de casos de uso incluye los siguientes componentes 
 | *Flujo normal*     | 1. Personal administrativo clasifica los componentes según su tipo. <br>2. El inventario muestra los componentes por tipo. |
 
 
-## 3. Diagrama de caso de uso (Monitoreo)
-![Inventario de Bodega-Caso de Uso 3 drawio](https://github.com/user-attachments/assets/828f2f96-45a1-4b5b-b0ff-11adf0cfdf2e)
+## 3. Diagrama de caso de uso (Almacenamiento)
 
- ## Descripción del tercer caso de uso: Monitoreo
+![Inventario de Bodega-Caso de Uso 3 drawio](https://github.com/user-attachments/assets/e6014ee9-b27a-4978-b688-44ff9d7993f9)
+
+ ## Descripción del tercer caso de uso: Almacenamiento
 
  ### Caso: Generar informe del Componente 
 
@@ -119,3 +119,16 @@ La estructura de un diagrama de casos de uso incluye los siguientes componentes 
 | *Actores*          | - Personal administrativo     |
 | *Flujo normal*     | 1. El inventario notifica los ingresos de los componentes.  <br>2. El personal administrativo monitorea los ingresos de los componentes. <br>3. El inventario notifica los egresos de los componentes.  <br>4. El personal administrativo monitorea los egresos de los componentes  |
  
+## 4. Diagrama de caso de uso (Gestión operativa)
+![Inventario de Bodega-Caso de uso 4 drawio](https://github.com/user-attachments/assets/015fed12-152a-447e-aeaa-a72307b126b2)
+
+
+## Descripción del tercer caso de uso: Gestión operativa
+
+
+
+## 5. Diagrama de caso de uso (Análisis y mejora continua)
+![Inventario de Bodega-Caso de uso 5 drawio](https://github.com/user-attachments/assets/a4df9576-b718-44ae-8a88-cdda5e209845)
+
+
+## Descripción del tercer caso de uso: Análisis y mejora continua
