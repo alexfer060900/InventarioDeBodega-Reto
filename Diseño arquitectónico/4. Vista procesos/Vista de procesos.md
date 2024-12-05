@@ -17,9 +17,8 @@ Los diagramas de secuencia son una herramienta de modelado en la Ingeniería de 
 ## Diagramas de secuencia
 
 ### Diagrama 1: Inicio de sesión y gestión de componentes
-<p align="center">
-  ![Inventario de Bodega-Diagrama de secuencia 1 drawio](https://github.com/user-attachments/assets/262f461b-95f3-4472-a8e6-e47710da91f8)
-</p>
+![Inventario de Bodega-Diagrama de secuencia 1 drawio](https://github.com/user-attachments/assets/262f461b-95f3-4472-a8e6-e47710da91f8)
+
 
 **Explicación**:  
 Este diagrama describe cómo el **Personal Administrativo** inicia sesión en el sistema de la UTPL. Una vez autenticado, puede agregar componentes al inventario tras validar su existencia. Los pasos clave incluyen:  
