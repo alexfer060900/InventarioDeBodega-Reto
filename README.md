@@ -21,6 +21,10 @@ CLOUDCORE es una empresa especializada en soluciones de computación en la nube,
 ## Integrantes y Roles en el Proyecto
 
 ![integrantes 2](https://github.com/user-attachments/assets/775b9471-b9e3-41f1-a914-246f1a31c461)
+Pablo Reyes
+Líder 
+FrontEnd
+
 
 <table style="width: 100%; table-layout: fixed; border-spacing: 10px;">
   <tr align="center">
