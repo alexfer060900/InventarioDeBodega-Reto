@@ -20,6 +20,8 @@ CLOUDCORE es una empresa especializada en soluciones de computación en la nube,
 
 ## Integrantes y Roles en el Proyecto
 
+![integrantes](https://github.com/user-attachments/assets/8bed3730-5de9-488a-aba7-ad0258388870)
+
 <table style="width: 100%; table-layout: fixed; border-spacing: 10px;">
   <tr align="center">
     <td style="text-align: center; vertical-align: middle;">
