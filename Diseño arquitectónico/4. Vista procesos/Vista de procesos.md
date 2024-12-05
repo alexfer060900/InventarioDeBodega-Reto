@@ -29,9 +29,8 @@ Este diagrama describe cómo el **Personal Administrativo** inicia sesión en el
 ---
 
 ### Diagrama 2: Verificación y clasificación de componentes
-<p align="center">
-  <img src="https://i.postimg.cc/j2BdLWwX/Inventario-de-Bodega-Diagrama-de-secuencia-2.png" alt="Diagrama de secuencia 2"/>
-</p>
+![Inventario de Bodega-Diagrama de secuencia 2 drawio](https://github.com/user-attachments/assets/ef925c38-509f-4b46-a3ea-640d8525e339)
+
 
 **Explicación**:  
 Este diagrama muestra el proceso de verificación y clasificación de componentes. El flujo incluye:  
@@ -42,9 +41,8 @@ Este diagrama muestra el proceso de verificación y clasificación de componente
 ---
 
 ### Diagrama 3: Generación de informes y alertas
-<p align="center">
-  <img src="https://i.postimg.cc/gc70M7SZ/Inventario-de-Bodega-Diagrama-de-secuencia-3.png" alt="Diagrama de secuencia 3 "/>
-</p>
+![Inventario de Bodega-Diagrama de secuencia 3 drawio](https://github.com/user-attachments/assets/18745c72-27b0-472a-9ba0-e62266f20bc8)
+
 
 **Explicación**:  
 Aquí se describe el proceso de monitoreo de movimientos e irregularidades en el inventario, incluyendo la generación de alertas y registros. Las acciones clave son:  
@@ -55,9 +53,8 @@ Aquí se describe el proceso de monitoreo de movimientos e irregularidades en el
 ---
 
 ### Diagrama 4: Gestión de solicitudes y actualización de componentes
-<p align="center">
-  <img src="https://i.postimg.cc/B6Yvf7JR/Inventario-de-Bodega-Diagrama-de-secuencia-4.png" alt="Diagrama de secuencia 4"/>
-</p>
+![Inventario de Bodega-Diagrama de secuencia 4 drawio](https://github.com/user-attachments/assets/23c2501a-d3fb-465e-bc4a-abbb9ec41205)
+
 
 **Explicación**:  
 Este diagrama explica cómo el **Servicio Checklist** interactúa con el inventario para procesar solicitudes. Las principales acciones incluyen:  
