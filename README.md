@@ -72,7 +72,7 @@ CLOUDCORE es una empresa especializada en soluciones de computación en la nube,
 
 # Reto: Inventario de Bodega - Universidad Técnica Particular de Loja (UTPL)
 
-## Problemática (Descripción del Proyecto)
+## Problemática
 
 La Universidad Técnica Particular de Loja enfrenta el desafío de gestionar de manera efectiva su inventario de materiales y recursos esenciales. Actualmente, la falta de un sistema automatizado genera riesgos de desabastecimiento, control limitado en tiempo real y dificultades en la colaboración entre departamentos.
 
