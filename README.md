@@ -20,61 +20,7 @@ CLOUDCORE es una empresa especializada en soluciones de computación en la nube,
 
 ## Integrantes y Roles en el Proyecto
 
-![integrantes 2](https://github.com/user-attachments/assets/775b9471-b9e3-41f1-a914-246f1a31c461)
-Pablo Reyes
-Líder 
-FrontEnd
-
-
-<table style="width: 100%; table-layout: fixed; border-spacing: 10px;">
-  <tr align="center">
-    <td style="text-align: center; vertical-align: middle;">
-      <img src="https://i.postimg.cc/ydXQ3V4M/Perfil-Pablo.png" alt="Foto Pablo Reyes" width="100" height="100" style="border-radius: 50%;"/>
-      <br/>
-      <strong>Pablo Reyes</strong>
-      <br/>
-      Lider, Desarrollador de FrontEnd
-    </td>
-    <td style="text-align: center; vertical-align: middle;">
-      <img src="https://i.postimg.cc/nhgw6RGP/Perfil-Carlos.png" alt="Foto Carlos Morocho" width="100" height="100" style="border-radius: 50%;"/>
-      <br/>
-      <strong>Carlos Morocho</strong>
-      <br/>
-      Diseñador UX/UI
-    </td>
-    <td style="text-align: center; vertical-align: middle;">
-      <img src="https://i.postimg.cc/VvT0gCX2/Perfil-Leonardo.png" alt="Foto Leonardo Chuquimarca" width="100" height="100" style="border-radius: 50%;"/>
-      <br/>
-      <strong>Leonardo Chuquimarca</strong>
-      <br/>
-      Arquitecto de software
-    </td>
-  </tr>
-  <tr align="center">
-    <td style="text-align: center; vertical-align: middle;">
-      <img src="https://i.postimg.cc/4xmS2kVc/Perfil-Jhon.png" alt="Foto Jhon Calle" width="100" height="100" style="border-radius: 50%;"/>
-      <br/>
-      <strong>Jhon Calle</strong>
-      <br/>
-      Product Manager
-    </td>
-    <td style="text-align: center; vertical-align: middle;">
-      <img src="https://i.postimg.cc/nztSLX5K/Perfil-Jorge.png" alt="Foto Jorge Armijos" width="100" height="100" style="border-radius: 50%;"/>
-      <br/>
-      <strong>Jorge Armijos</strong>
-      <br/>
-      Desarrollador BackEnd
-    </td>
-    <td style="text-align: center; vertical-align: middle;">
-      <img src="https://i.postimg.cc/N0XPY6Nf/Perfil-Alex.png" alt="Foto Alex Aguirre" width="100" height="100" style="border-radius: 50%;"/>
-      <br/>
-      <strong>Alex Aguirre</strong>
-      <br/>
-      Analista de negocio
-    </td>
-  </tr>
-</table>
-
+![Integrantes](https://github.com/user-attachments/assets/fd724497-3083-49e8-b282-b6ac7b91d043)
 
 # Reto: Inventario de Bodega - Universidad Técnica Particular de Loja (UTPL)
 
