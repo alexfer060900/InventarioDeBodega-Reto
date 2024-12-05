@@ -2,10 +2,10 @@
   <img src="https://i.postimg.cc/13qQdqZs/utpllogo.png" alt="Logo UTPL" width="150"/>
 </p>
 
+<p align="center"><strong>CLOUDCORE</strong></p>
 
 ## ¿Quiénes Somos?
 
-**Nombre de la empresa:** CLOUDCORE  
 CLOUDCORE es una empresa especializada en soluciones de computación en la nube, orientada a mejorar la eficiencia y competitividad de sus clientes a través de tecnologías seguras y escalables.
 
 | Misión                                                                                                                                                                                                                       | Visión                                                                                                                                                                                                                     |
