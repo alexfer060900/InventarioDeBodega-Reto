@@ -20,55 +20,52 @@ Un mapa de capacidades generalmente se divide en módulos o áreas de alto nivel
 
 Este mapa de capacidades se ha diseñado para una aplicación móvil enfocada en la gestión de inventarios en un entorno de bodega. La aplicación está organizada en cuatro módulos principales:
 
-1. **Registro**
-2. **Gestión**
-3. **Monitoreo**
-4. **Ejecución**
+1. **Planificación**
+2. **Aprovisionamiento**
+3. **Almacenamiento**
+4. **Gestión operativa**
+5. **Análisis y mejora continua**
 
 # Descripción de los Módulos
 
-## Registro
+## Planificación
 
-El módulo de **Registro** se encarga de la incorporación de usuarios y componentes al sistema. Este módulo asegura que solo el personal autorizado tenga acceso a las funcionalidades críticas de la aplicación y el ingreso adecuado en el inventario por tipos de materiales y equipos.
-
-### Funcionalidades principales:
-1. **Ingresar usuarios**  
-   Permite registrar nuevos usuarios en el sistema y validar que cuenten con los permisos adecuados.  
-   - Validar usuarios: Se asegura de que los datos ingresados sean correctos y el usuario esté autorizado para acceder al sistema.  
-
-2. **Ingresar componentes**  
-   Permite el registro de los diferentes tipos de componentes en el sistema para una mejor organización y control del inventario.  
-   - Ingresar suministros de oficina  
-   - Ingresar equipos y mobiliario  
-   - Ingresar inventario de tecnología  
-   - Ingresar material deportivo  
-   - Ingresar material de limpieza y seguridad  
-   - Ingresar libros y material bibliográfico  
-
-Este módulo establece la base del sistema, asegurando que todos los elementos sean registrados e ingresados correctamente.
-
-
-
-## Gestión
-
-El módulo de **Gestión** está diseñado para manejar y supervisar el inventario, asegurando que los componentes estén disponibles y en buen estado.
+El módulo de **Planificación** establece los fundamentos para una gestión efectiva
 
 ### Funcionalidades principales:
-1. **Gestionar inventario**  
-   Permite realizar tareas relacionadas con la supervisión y control del inventario.  
-   - Verificar existencia del componente: Confirma que los materiales requeridos están disponibles en stock.  
-   - Verificar estado del componente: Inspecciona las condiciones de los materiales para garantizar su calidad y funcionalidad.  
+1. **Definir objetivos y demanda**  
+   Permite identificar necesidades clave y establecer niveles operativos.  
+2. Clasificar componentes: Usar herramientas como análisis ABC y categorización por rotación para priorizar recursos críticos.
+3. Diseñar políticas y estrategias: Implementar políticas de inventario, seguridad y selección de proveedores.
 
-2. **Clasificar componentes**  
-   Organiza los componentes del inventario en diferentes categorías para facilitar su gestión y localización.  
-   - Clasificar suministros de oficina  
-   - Clasificar equipos y mobiliario  
-   - Clasificar inventario de tecnología  
-   - Clasificar material deportivo  
-   - Clasificar material de limpieza y seguridad  
-   - Clasificar libros y material bibliográfico  
+## Aprovisionamiento  
+El modulo de **Aprovisionamiento** se encarga de garantizar que los componentes necesarios estén disponibles
 
-Este módulo optimiza el uso de los recursos disponibles y asegura que estén correctamente organizados.
+### Funcionalidades principales: 
+1. **Selección y evaluación de proveedores**
+   -Homologar proveedores
+   -Negociar contratos que cumplan con estándares financieros y de calidad.  
+3. **Solicitud de componentes**
+   -Generar pedidos.
+   -Confirmar recepciones.  
+4. **Recepción de componentes**
+   -Inspeccionar
+   -Registrar entradas
+   -Reportar discrepancias.
+
+## Almacenamiento
+
+El módulo de **Almacenamiento** gestiona la organización y conservación de los componentes:
+
+### Funcionalidades principales:
+1. **Diseñar y almacenar flujos**
+   -Optimizar ubicaciones y flujos logísticos para maximizar la eficiencia.
+2. **Organizar componentes**
+   -Etiquetar y clasificar utilizando sistemas específicos para priorizar el acceso.
+3. **Controlar condiciones**
+   -Supervisar temperatura, humedad y medidas de seguridad.
+
+   
 
 
 
