@@ -38,7 +38,7 @@ Desarrollar un **aplicativo móvil** para gestionar el inventario de la bodega d
 - Implementar un sistema en la nube para centralizar y automatizar el control del inventario.
 - Proporcionar una solución móvil que permita a los usuarios registrar y consultar el inventario en tiempo real.
 
-## [PROTOTIPO DE ALTA FIDELIDAD](https://www.figma.com/proto/uatryMPY8xkGhpQikBVEPS/Prototipo-Inventario-de-bodega?node-id=1-4&node-type=canvas&t=9As6dMOQAscuw05o-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A4)
+## [PROTOTIPO](https://www.figma.com/proto/uatryMPY8xkGhpQikBVEPS/Prototipo-Inventario-de-bodega?node-id=1-4&node-type=canvas&t=9As6dMOQAscuw05o-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A4)
   <div align="center">
   <img src="https://i.postimg.cc/15TSMK2v/qr.png" alt="qr" width="300"/>
   </div>
