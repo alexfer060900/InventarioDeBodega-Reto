@@ -18,87 +18,167 @@ Un mapa de capacidades generalmente se divide en módulos o áreas de alto nivel
 
 
 
-Este mapa de capacidades se ha diseñado para una aplicación móvil enfocada en la gestión de inventarios en un entorno de bodega. La aplicación está organizada en cuatro módulos principales:
+La aplicación está organizada en cinco módulos principales:
 
-1. **Planificación**
-2. **Aprovisionamiento**
-3. **Almacenamiento**
-4. **Gestión operativa**
-5. **Análisis y mejora continua**
+Planificación
 
-# Descripción de los Módulos
+Aprovisionamiento
 
-## Planificación
+Almacenamiento
 
-El módulo de **Planificación** establece los fundamentos para una gestión efectiva
+Gestión Operativa
 
-### Funcionalidades principales:
-1. **Definir objetivos y demanda**  
-   Permite identificar necesidades clave y establecer niveles operativos.  
-2. Clasificar componentes: Usar herramientas como análisis ABC y categorización por rotación para priorizar recursos críticos.
-3. Diseñar políticas y estrategias: Implementar políticas de inventario, seguridad y selección de proveedores.
+Análisis y Mejora Continua
 
-## Aprovisionamiento  
-El modulo de **Aprovisionamiento** se encarga de garantizar que los componentes necesarios estén disponibles
+A continuación, se describen las capacidades incluidas en cada módulo:
 
-### Funcionalidades principales: 
-1. **Selección y evaluación de proveedores**
-   -Homologar proveedores
-   -Negociar contratos que cumplan con estándares financieros y de calidad.  
-3. **Solicitud de componentes**
-   -Generar pedidos.
-   -Confirmar recepciones.  
-4. **Recepción de componentes**
-   -Inspeccionar
-   -Registrar entradas
-   -Reportar discrepancias.
+1. Planificación
 
-## Almacenamiento
+Capacidades Principales
 
-El módulo de **Almacenamiento** gestiona la organización y conservación de los componentes:
+Definir objetivos:
 
-### Funcionalidades principales:
-1. **Diseñar y almacenar flujos**
-   -Optimizar ubicaciones y flujos logísticos para maximizar la eficiencia.
-2. **Organizar componentes**
-   -Etiquetar y clasificar utilizando sistemas específicos para priorizar el acceso.
-3. **Controlar condiciones**
-   -Supervisar temperatura, humedad y medidas de seguridad.
+Identificar la demanda para determinar las necesidades de inventario.
 
-   
+Establecer niveles óptimos para minimizar costos y garantizar disponibilidad.
 
+Determinar recursos financieros y operativos requeridos.
 
+Implementar políticas de inventario:
 
-## Monitoreo
+Seleccionar estrategias adecuadas para la gestión de inventario.
 
-El módulo de **Monitoreo** permite supervisar continuamente el estado del inventario y generar notificaciones para prevenir problemas relacionados con la falta de materiales o irregularidades en los mismos.
+Definir parámetros de seguridad de stock.
 
-### Funcionalidades principales:
-1. **Generar informe del componente**  
-   Proporciona detalles sobre el estado y la cantidad de los componentes en el sistema.  
-   - Notificar irregularidad del componente: Identifica problemas o inconsistencias en los componentes registrados.  
+Establecer políticas de reabastecimiento eficientes.
 
-2. **Generar alertas**  
-   Ayuda a anticiparse a posibles inconvenientes mediante notificaciones automáticas.  
-   - Alertar cantidad mínima del componente: Informa cuando el stock de un componente alcanza niveles críticos.  
-   - Alertar estado del componente: Notifica sobre el deterioro o mal estado de un componente.  
+Clasificar componentes:
 
-3. **Monitorear movimientos del componente**  
-   Lleva un registro detallado de las entradas y salidas de los componentes del inventario.  
-   - Notificar ingreso del componente  
-   - Notificar egreso del componente  
+Analizar el inventario bajo el modelo ABC.
 
-Este módulo permite una supervisión proactiva, facilitando una respuesta rápida ante problemas.
+Identificar componentes críticos para priorizar su gestión.
 
+Categorizar los componentes según su rotación (alta, media, baja).
 
+Este módulo ayuda a la planificación estratégica y operativa para garantizar una gestión de inventarios alineada con los objetivos organizacionales.
 
-## Ejecución
+2. Aprovisionamiento
 
-El módulo de **Ejecución** es responsable de atender las solicitudes de componentes y garantizar que los materiales sean entregados de manera eficiente.
+Capacidades Principales
 
-### Funcionalidades principales:
-1. **Solicitar componentes**  
-   Permite a los usuarios gestionar solicitudes de materiales según las necesidades operativas.  
-   - Gestionar solicitudes de componentes: Procesa y organiza las solicitudes para una entrega oportuna.  
+Seleccionar proveedores:
 
-Este módulo asegura que los materiales estén disponibles para su uso cuando se necesiten y que las solicitudes sean atendidas eficientemente.
+Evaluar a los proveedores con base en calidad, precio y tiempos de entrega.
+
+Negociar contratos y términos de suministro.
+
+Homologar proveedores seleccionados según estándares internos.
+
+Solicitar componentes:
+
+Elaborar y emitir pedidos de compra.
+
+Controlar órdenes pendientes hasta su cumplimiento.
+
+Confirmar entregas para mantener la trazabilidad del inventario.
+
+Recibir componentes:
+
+Inspeccionar bienes al momento de la recepción.
+
+Registrar entradas al sistema, actualizando el inventario.
+
+Reportar discrepancias o defectos detectados.
+
+Este módulo asegura un flujo eficiente y controlado de los materiales desde los proveedores hasta el almacén.
+
+3. Almacenamiento
+
+Capacidades Principales
+
+Diseñar almacén:
+
+Optimizar el uso del espacio disponible.
+
+Diseñar flujos logísticos para facilitar la movilidad de los materiales.
+
+Definir ubicaciones específicas de almacenamiento.
+
+Organizar componentes:
+
+Etiquetar y codificar componentes para una identificación rápida.
+
+Implementar un sistema de clasificación eficiente.
+
+Priorizar componentes según su demanda.
+
+Controlar condiciones:
+
+Monitorear temperatura y humedad en el almacén.
+
+Supervisar medidas de seguridad para evitar pérdidas o daños.
+
+Realizar inspecciones periódicas para garantizar el cumplimiento de estándares.
+
+Este módulo asegura el adecuado almacenamiento y preservación de los componentes.
+
+4. Gestión Operativa
+
+Capacidades Principales
+
+Monitorear existencias:
+
+Realizar auditorías regulares del inventario para detectar discrepancias.
+
+Actualizar el sistema con movimientos o ajustes realizados.
+
+Controlar el inventario obsoleto y gestionar su disposición.
+
+Reabastecimiento:
+
+Activar órdenes de compra basadas en niveles de inventario.
+
+Calcular puntos de reorden según patrones de consumo.
+
+Ajustar niveles de stock de seguridad según necesidades operativas.
+
+Gestionar discrepancias:
+
+Resolver faltantes de inventario mediante ajustes o reposición.
+
+Manejar excedentes de manera eficiente para evitar saturaciones.
+
+Tratar componentes dañados para evitar impactos en la operatividad.
+
+Este módulo asegura la operación continua y eficiente de la bodega.
+
+5. Análisis y Mejora Continua
+
+Capacidades Principales
+
+Evaluar desempeño:
+
+Calcular indicadores clave como rotación de inventarios y costos.
+
+Comparar resultados con metas previamente establecidas.
+
+Identificar cuellos de botella en los procesos operativos.
+
+Optimizar procesos:
+
+Implementar tecnologías que mejoren la gestión del inventario.
+
+Rediseñar procesos ineficientes para reducir tiempos y costos.
+
+Capacitar al personal en buenas prácticas y uso del sistema.
+
+Documentar y retroalimentar:
+
+Registrar lecciones aprendidas para fortalecer el sistema.
+
+Implementar recomendaciones basadas en análisis de datos.
+
+Crear informes detallados para la toma de decisiones estratégicas.
+
+Este módulo permite la mejora continua del sistema, garantizando su alineación con las necesidades de la organización.
+
